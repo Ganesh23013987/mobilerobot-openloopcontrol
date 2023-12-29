@@ -106,10 +106,12 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 ## Robo start point:
-<img width="229" alt="st robo" src="https://github.com/Ganesh23013987/mobilerobot-openloopcontrol/assets/147473768/c664fca9-cd74-4719-8496-ba9fa2a11e15">
+![start](https://github.com/Ganesh23013987/mobilerobot-openloopcontrol/assets/147473768/549a1c40-36e9-4690-98fd-5db4a84cc2d7)
+
 
 ## Robo end point:
-<img width="247" alt="end robo" src="https://github.com/Ganesh23013987/mobilerobot-openloopcontrol/assets/147473768/cec30a1a-900c-4252-97c2-d6b5f67b7654">
+![end](https://github.com/Ganesh23013987/mobilerobot-openloopcontrol/assets/147473768/1c5502df-2281-43c5-9f21-5bb04c845641)
+
 
 ## Mobilerobot movement:
 ![Alt text](<ROBO movement-1.png>)
